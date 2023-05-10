@@ -32,3 +32,5 @@ If a person using Python language to acheive his implementations will be called 
 ![markdown language explanations](https://github.com/sergey-samoylov/Pythonista_Notes/blob/main/img/markdown1.png)
 
 ![markdown language explanations part two](https://github.com/sergey-samoylov/Pythonista_Notes/blob/main/img/markdown2.png)
+
+![markdown language explanations part three](https://github.com/sergey-samoylov/Pythonista_Notes/blob/main/img/markdown3.png)
