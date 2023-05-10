@@ -28,3 +28,7 @@ If a person using Python language to acheive his implementations will be called 
 Это - не учебник пока. Просто дополнительный интересный материал.
 
 Факты, максимальное количество примеров. Отсутсвие "воды" и всего лишнего.
+
+![markdown language explanations](https://github.com/sergey-samoylov/Pythonista_Notes/blob/main/img/markdown1.png)
+
+![markdown language explanations part two](https://github.com/sergey-samoylov/Pythonista_Notes/blob/main/img/markdown2.png)
